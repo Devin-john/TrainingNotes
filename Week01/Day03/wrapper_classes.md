@@ -56,7 +56,7 @@ Here are a few examples demonstrating autoboxing and unboxing:
 
 1\. **Autoboxing with Collections:**
 
-   ```java
+```java
 
    import java.util.ArrayList;
 
@@ -76,11 +76,11 @@ Here are a few examples demonstrating autoboxing and unboxing:
 
    }
 
-   ```
+```
 
 2\. **Unboxing in Expressions:**
 
-   ```java
+```java
 
    public class UnboxingExample {
 
@@ -98,11 +98,11 @@ Here are a few examples demonstrating autoboxing and unboxing:
 
    }
 
-   ```
+```
 
 3\. **Autoboxing and Unboxing in Methods:**
 
-   ```java
+```java
 
    public class BoxingUnboxingExample {
 
@@ -134,7 +134,7 @@ Here are a few examples demonstrating autoboxing and unboxing:
 
    }
 
-   ```
+```
 
 ### Performance Considerations
 
