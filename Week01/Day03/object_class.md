@@ -8,13 +8,14 @@ In Java, the `Object` class is the root of the class hierarchy. Every class in J
 
    - Example:
 
-     ```java
+     
+```java
 
      Person person = new Person("Alice", 30);
 
      System.out.println(person.getClass()); // Output: class Person
 
-     ```
+```
 
 2\. **`public int hashCode()`**
 
@@ -22,13 +23,14 @@ In Java, the `Object` class is the root of the class hierarchy. Every class in J
 
    - Example:
 
-     ```java
+    
+```java
 
      Person person = new Person("Alice", 30);
 
      System.out.println(person.hashCode());
 
-     ```
+```
 
 3\. **`public boolean equals(Object obj)`**
 
@@ -36,7 +38,8 @@ In Java, the `Object` class is the root of the class hierarchy. Every class in J
 
    - Example:
 
-     ```java
+     
+```java
 
      @Override
 
@@ -52,7 +55,7 @@ In Java, the `Object` class is the root of the class hierarchy. Every class in J
 
      }
 
-     ```
+```
 
 4\. **`protected Object clone() throws CloneNotSupportedException`**
 
@@ -60,7 +63,8 @@ In Java, the `Object` class is the root of the class hierarchy. Every class in J
 
    - Example:
 
-     ```java
+ 
+```java
 
      @Override
 
@@ -70,7 +74,7 @@ In Java, the `Object` class is the root of the class hierarchy. Every class in J
 
      }
 
-     ```
+```
 
 5\. **`public String toString()`**
 
@@ -78,7 +82,8 @@ In Java, the `Object` class is the root of the class hierarchy. Every class in J
 
    - Example:
 
-     ```java
+    
+```java
 
      @Override
 
@@ -88,7 +93,7 @@ In Java, the `Object` class is the root of the class hierarchy. Every class in J
 
      }
 
-     ```
+```
 
 6\. **`public final void notify()`**
 
