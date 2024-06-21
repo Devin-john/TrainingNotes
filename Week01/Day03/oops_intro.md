@@ -56,7 +56,8 @@ Here are a few examples demonstrating autoboxing and unboxing:
 
 1\. **Autoboxing with Collections:**
 
-   ```java
+  
+```java
 
    import java.util.ArrayList;
 
@@ -76,11 +77,12 @@ Here are a few examples demonstrating autoboxing and unboxing:
 
    }
 
-   ```
+```
 
 2\. **Unboxing in Expressions:**
 
-   ```java
+   
+```java
 
    public class UnboxingExample {
 
@@ -98,11 +100,11 @@ Here are a few examples demonstrating autoboxing and unboxing:
 
    }
 
-   ```
+```
 
 3\. **Autoboxing and Unboxing in Methods:**
 
-   ```java
+```java
 
    public class BoxingUnboxingExample {
 
@@ -134,7 +136,7 @@ Here are a few examples demonstrating autoboxing and unboxing:
 
    }
 
-   ```
+```
 
 ### Performance Considerations
 
@@ -154,7 +156,7 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
    - Example:
 
-     ```java
+```java
 
      public class Person {
 
@@ -188,7 +190,7 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
      }
 
-     ```
+```
 
 3\. **Inheritance**
 
@@ -196,7 +198,7 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
    - Example:
 
-     ```java
+```java
 
      public class Animal {
 
@@ -218,7 +220,7 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
      }
 
-     ```
+```
 
 4\. **Polymorphism**
 
@@ -228,7 +230,7 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
      - **Compile-time polymorphism (Method Overloading)**: Multiple methods in the same class with the same name but different parameters.
 
-       ```java
+```java
 
        public class MathOperation {
 
@@ -246,11 +248,11 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
        }
 
-       ```
+```
 
      - **Runtime polymorphism (Method Overriding)**: A subclass provides a specific implementation of a method that is already defined in its superclass.
 
-       ```java
+```java
 
        public class Animal {
 
@@ -274,7 +276,7 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
        }
 
-       ```
+```
 
 5\. **Abstraction**
 
@@ -284,7 +286,7 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
    - Example:
 
-     ```java
+```java
 
      abstract class Animal {
 
@@ -318,7 +320,7 @@ While autoboxing and unboxing provide a convenient way to work with primitives a
 
      }
 
-     ```
+```
 
 ### Benefits of OOP
 
