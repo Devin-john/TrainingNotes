@@ -1,5 +1,3 @@
-Certainly! Let's delve into each of these MongoDB query topics with explanations and examples:
-
 ### Simple Queries
 
 Simple queries in MongoDB involve basic retrieval of documents from a collection based on specified criteria using the `find()` method.

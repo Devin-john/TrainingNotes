@@ -1,4 +1,4 @@
-Sure, let's delve into the fundamental components of a class in Java: fields, constructors, methods, and static members.
+
 
 ### 1. Class
 

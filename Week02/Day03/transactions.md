@@ -1,4 +1,3 @@
-Certainly! Let's dive into MySQL transaction management, including key concepts, commands, isolation levels, ACID properties, and how transactions relate to CRUD operations.
 
 ### What is a Transaction?
 

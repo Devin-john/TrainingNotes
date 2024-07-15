@@ -1,5 +1,3 @@
-Sure! Here is a detailed explanation of the given CSS concepts:
-
 ### Overview of CSS
 
 CSS (Cascading Style Sheets) is a language used to describe the presentation of a document written in HTML or XML. CSS controls the layout of multiple web pages all at once. It was designed to separate content (HTML) from presentation (CSS), making it easier to maintain and update the styling of web pages.

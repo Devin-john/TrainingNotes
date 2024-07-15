@@ -1,5 +1,3 @@
-Sure, let's go through each of these data structures in Java with basic examples:
-
 ### 1. Arrays
 
 Arrays in Java are fixed-size data structures that store elements of the same type in contiguous memory locations.

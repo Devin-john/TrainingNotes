@@ -1,4 +1,3 @@
-Certainly! Let's explore the MongoDB topics of Regex (regular expressions) and anchors/special characters in detail:
 
 ### Regex (Regular Expressions)
 

@@ -1,4 +1,4 @@
-Here's a complete tutorial on Large Language Models (LLMs), including their fundamentals, architecture, training process, and applications.
+
 
 ## Large Language Models (LLMs)
 

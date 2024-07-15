@@ -1,4 +1,3 @@
-Sure! Below is a list of common HTML tags along with their definitions and example usage:
 
 ### Document Metadata Tags
 - **`<!DOCTYPE html>`**: Defines the document type and HTML version.

@@ -1,4 +1,3 @@
-Certainly! Let's explore each of these MongoDB topics in detail:
 
 ### Create Indexes
 

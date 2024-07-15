@@ -1,5 +1,3 @@
-Sure, here are explanations and Java implementations for Insertion Sort, Bubble Sort, Selection Sort, Merge Sort, and Quick Sort, along with their time and space complexities.
-
 ### Insertion Sort
 
 Insertion Sort builds the final sorted array one element at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
