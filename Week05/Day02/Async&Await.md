@@ -1,4 +1,4 @@
-Certainly! `async` and `await` are keywords in JavaScript used to work with asynchronous code in a more synchronous and readable manner. They were introduced in ES2017 (ES8) and have since become a standard way to handle asynchronous operations.
+`async` and `await` are keywords in JavaScript used to work with asynchronous code in a more synchronous and readable manner. They were introduced in ES2017 (ES8) and have since become a standard way to handle asynchronous operations.
 
 ### `async` Function
 
