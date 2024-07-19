@@ -1,4 +1,4 @@
-Sure! Let's go through a comprehensive tutorial on using Axios with React. Axios is a popular HTTP client for making requests to APIs in JavaScript. It is widely used in React applications for making API calls.
+ Axios is a popular HTTP client for making requests to APIs in JavaScript. It is widely used in React applications for making API calls.
 
 ### Setting Up Axios
 
